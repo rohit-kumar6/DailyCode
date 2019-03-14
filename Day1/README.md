@@ -1,4 +1,5 @@
 # 1.1  Question- Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+This problem was recently asked by Google. We have do this in one pass?
 ### For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 # 1.2 Question- Write a program that prints the numbers from 1 to n and for multiples of '3' print "Fizz" instead of the number, for the multiples of '5' print "Buzz", and for the numbers which are divisible by both 3 and 5, print FizzBuzz.
