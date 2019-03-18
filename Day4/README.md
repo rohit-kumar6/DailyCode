@@ -17,7 +17,7 @@ Algorithm should run in O(n) time and use constant space.
 We can assume that the messages are decodable. For example, '001' is not allowed.
 This problem was asked by Facebook.
 
-# 4.4 Question- product of two 100 digit positive numbers
+# 4.5 Question- product of two 100 digit positive numbers
 
 void productOf100DigitNumbers(int num1[100], int num2[100], int prod[200])<br/>
 {<br/>
